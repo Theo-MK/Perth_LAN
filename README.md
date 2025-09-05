@@ -1,2 +1,2 @@
 # Perth_LAN
-My Perth LAN project
+Perth branch LAN & WLAN design with VLANs, NAT, VPN, VoIP, and enhanced network security.
